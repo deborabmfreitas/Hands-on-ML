@@ -15,6 +15,6 @@ Fiz esse repositório com o intuito de documentar meu aprendizado na área de ci
 # Estudos
 
 ## Capítulo 1: introdutório
-
+➡️ [Questionário de perguntas]()
 ## Capítulo 2: projeto de regressão
-➡️ [Notebook do projeto](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb)
+➡️ [Notebook do projeto](https://github.com/deborabmfreitas/Hands-on-ML/blob/main/cap-2-end-to-end-regressao.ipynb)
