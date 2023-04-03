@@ -4,7 +4,7 @@ Estudos do livro: "Hands-on Machine Learning with Scikit-Learn, Keras, and Tenso
 
 <div align="center">
 
-<img src="img/book.jpg" width="400" height="500">
+<img src="img/book.jpg" width="300" height="400">
 
 </div>
 
@@ -14,5 +14,7 @@ Fiz esse repositório com o intuito de documentar meu aprendizado na área de ci
 
 # Estudos
 
-## Capítulo 2: problema de regressão
-➡️ [Notebook do projeto]()
+## Capítulo 1: introdutório
+
+## Capítulo 2: projeto de regressão
+➡️ [Notebook do projeto](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb)
