@@ -15,6 +15,6 @@ Fiz esse repositório com o intuito de documentar meu aprendizado na área de ci
 # Estudos
 
 ## Capítulo 1: introdutório
-➡️ [Questionário de perguntas]()
+➡️ [Questionário de perguntas](https://cotton-tsunami-f9e.notion.site/Hands-on-ML-461d8cabee304e77b61f1866a94541b4)
 ## Capítulo 2: projeto de regressão
 ➡️ [Notebook do projeto](https://github.com/deborabmfreitas/Hands-on-ML/blob/main/cap-2-end-to-end-regressao.ipynb)
